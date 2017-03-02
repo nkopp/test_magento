@@ -1,0 +1,14 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1488396120;s:6:"expire";i:1488399720;s:4:"tags";s:66:"eb8_BLOCK_HTML,eb8_CATALOG_PRODUCT_13,eb8_CATALOG_PRODUCT,eb8_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="13">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="product-price-13"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$45.00</span>    </span>
+        </span>
+
+</div>
